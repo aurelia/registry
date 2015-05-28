@@ -1,0 +1,34 @@
+{
+  "plugins": [
+    {
+      "name": "animator-css",
+      "endpoint": "github",
+      "location": "aurelia/animator-css"
+    },
+    {
+      "name": "breeze",
+      "endpoint": "github",
+      "location": "jdanyow/aurelia-breeze"
+    },
+    {
+      "name": "i18next",
+      "endpoint": "github",
+      "location": "zewa666/aurelia-i18next"
+    },
+    {
+      "name": "leaflet",
+      "endpoint": "github",
+      "location": "ceoaliongroo/aurelia-leaflet"
+    },
+    {
+      "name": "modal",
+      "endpoint": "github",
+      "location": "pwkad/aurelia-bs-modal"
+    },
+    {
+      "name": "validation",
+      "endpoint": "github",
+      "location": "aurelia/validation"
+    }
+  ]
+}
