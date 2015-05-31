@@ -21,6 +21,11 @@
       "location": "ceoaliongroo/aurelia-leaflet"
     },
     {
+      "name": "materialize",
+      "endpoint": "github",
+      "location": "manuel-guilbault/aurelia-materialize"
+    },
+    {
       "name": "modal",
       "endpoint": "github",
       "location": "pwkad/aurelia-bs-modal"
