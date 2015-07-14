@@ -11,6 +11,11 @@
       "location": "jdanyow/aurelia-breeze"
     },
     {
+      "name": "computed",
+      "endpoint": "github",
+      "location": "jdanyow/aurelia-computed"
+    },
+    {
       "name": "i18next",
       "endpoint": "github",
       "location": "zewa666/aurelia-i18next"
