@@ -16,6 +16,11 @@
       "location": "jdanyow/aurelia-computed"
     },
     {
+      "name": "flux",
+      "endpoint": "github",
+      "location": "tfrydrychewicz/aurelia-flux"
+    },
+    {
       "name": "i18next",
       "endpoint": "github",
       "location": "zewa666/aurelia-i18next"
