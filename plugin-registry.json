@@ -6,6 +6,11 @@
       "location": "aurelia/animator-css"
     },
     {
+      "name": "token-auth",
+      "endpoint": "github",
+      "location": "paulvanbladel/aureliauth"
+    },
+    {
       "name": "breeze",
       "endpoint": "github",
       "location": "jdanyow/aurelia-breeze"
@@ -14,6 +19,16 @@
       "name": "computed",
       "endpoint": "github",
       "location": "jdanyow/aurelia-computed"
+    },
+    {
+      "name": "dialog",
+      "endpoint": "github",
+      "location": "gooy/aurelia-dialog"
+    },
+    {
+      "name": "fetch",
+      "endpoint": "github",
+      "location": "aurelia/fetch-client"
     },
     {
       "name": "flux",
@@ -39,6 +54,11 @@
       "name": "modal",
       "endpoint": "github",
       "location": "pwkad/aurelia-bs-modal"
+    },
+    {
+      "name": "rethink-bindtable",
+      "endpoint": "github",
+      "location": "kristianmandrup/aurelia-rethink-bindtable"
     },
     {
       "name": "ui-virtualization",
