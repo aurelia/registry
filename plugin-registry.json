@@ -6,6 +6,11 @@
       "location": "aurelia/animator-css"
     },
     {
+      "name": "auth",
+      "endpoint": "github",
+      "location": "paulvanbladel/aurelia-auth"
+    },
+    {
       "name": "breeze",
       "endpoint": "github",
       "location": "jdanyow/aurelia-breeze"
