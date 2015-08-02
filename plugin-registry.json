@@ -31,6 +31,11 @@
       "location": "ceoaliongroo/aurelia-leaflet"
     },
     {
+      "name": "leaflet",
+      "endpoint": "github",
+      "location": "benib/aurelia-leaflet"
+    },
+    {
       "name": "materialize",
       "endpoint": "github",
       "location": "manuel-guilbault/aurelia-materialize"
