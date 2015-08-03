@@ -6,9 +6,9 @@
       "location": "aurelia/animator-css"
     },
     {
-      "name": "token-auth",
+      "name": "aurelia-bs-modal",
       "endpoint": "github",
-      "location": "paulvanbladel/aureliauth"
+      "location": "pwkad/aurelia-bs-modal"
     },
     {
       "name": "breeze",
@@ -23,7 +23,7 @@
     {
       "name": "dialog",
       "endpoint": "github",
-      "location": "gooy/aurelia-dialog"
+      "location": "aurelia/dialog"
     },
     {
       "name": "fetch",
@@ -34,6 +34,11 @@
       "name": "flux",
       "endpoint": "github",
       "location": "tfrydrychewicz/aurelia-flux"
+    },
+    {
+      "name": "gooy-dialog",
+      "endpoint": "github",
+      "location": "gooy/aurelia-dialog"
     },
     {
       "name": "i18next",
@@ -51,14 +56,14 @@
       "location": "manuel-guilbault/aurelia-materialize"
     },
     {
-      "name": "modal",
-      "endpoint": "github",
-      "location": "pwkad/aurelia-bs-modal"
-    },
-    {
       "name": "rethink-bindtable",
       "endpoint": "github",
       "location": "kristianmandrup/aurelia-rethink-bindtable"
+    },
+    {
+      "name": "token-auth",
+      "endpoint": "github",
+      "location": "paulvanbladel/aureliauth"
     },
     {
       "name": "ui-virtualization",
