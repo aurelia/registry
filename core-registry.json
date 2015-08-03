@@ -1,0 +1,114 @@
+{
+  "plugins": [
+    {
+      "name": "binding",
+      "endpoint": "github",
+      "location": "aurelia/binding"
+    },
+    {
+      "name": "bootstrapper",
+      "endpoint": "github",
+      "location": "aurelia/bootstrapper"
+    },
+    {
+      "name": "dependency-injection",
+      "endpoint": "github",
+      "location": "aurelia/dependency-injection"
+    },
+    {
+      "name": "event-aggregator",
+      "endpoint": "github",
+      "location": "aurelia/event-aggregator"
+    },
+    {
+      "name": "framework",
+      "endpoint": "github",
+      "location": "aurelia/framework"
+    },
+    {
+      "name": "history",
+      "endpoint": "github",
+      "location": "aurelia/history"
+    },
+    {
+      "name": "history-browser",
+      "endpoint": "github",
+      "location": "aurelia/history-browser"
+    },
+    {
+      "name": "html-template-element",
+      "endpoint": "github",
+      "location": "aurelia/html-template-element"
+    },
+    {
+      "name": "http-client",
+      "endpoint": "github",
+      "location": "aurelia/http-client"
+    },
+    {
+      "name": "loader",
+      "endpoint": "github",
+      "location": "aurelia/loader"
+    },
+    {
+      "name": "loader-default",
+      "endpoint": "github",
+      "location": "aurelia/loader-default"
+    },
+    {
+      "name": "logging",
+      "endpoint": "github",
+      "location": "aurelia/logging"
+    },
+    {
+      "name": "logging-console",
+      "endpoint": "github",
+      "location": "aurelia/logging-console"
+    },
+    {
+      "name": "metadata",
+      "endpoint": "github",
+      "location": "aurelia/metadata"
+    },
+    {
+      "name": "path",
+      "endpoint": "github",
+      "location": "aurelia/path"
+    },
+    {
+      "name": "router",
+      "endpoint": "github",
+      "location": "aurelia/router"
+    },
+    {
+      "name": "route-recognizer",
+      "endpoint": "github",
+      "location": "aurelia/route-recognizer"
+    },
+    {
+      "name": "task-queue",
+      "endpoint": "github",
+      "location": "aurelia/task-queue"
+    },
+    {
+      "name": "templating",
+      "endpoint": "github",
+      "location": "aurelia/templating"
+    },
+    {
+      "name": "templating-binding",
+      "endpoint": "github",
+      "location": "aurelia/templating-binding"
+    },
+    {
+      "name": "templating-resources",
+      "endpoint": "github",
+      "location": "aurelia/templating-resources"
+    },
+    {
+      "name": "templating-router",
+      "endpoint": "github",
+      "location": "aurelia/templating-router"
+    },
+  ]
+}
