@@ -1,5 +1,5 @@
 {
-  "plugins": [
+  "repositories": [
     {
       "name": "binding",
       "endpoint": "github",
