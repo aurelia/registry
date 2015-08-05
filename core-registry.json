@@ -109,6 +109,6 @@
       "name": "templating-router",
       "endpoint": "github",
       "location": "aurelia/templating-router"
-    },
+    }
   ]
 }
