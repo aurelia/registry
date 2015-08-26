@@ -71,6 +71,11 @@
       "location": "kristianmandrup/aurelia-rethink-bindtable"
     },
     {
+      "name": "sails-socket-client",
+      "endpoint": "github",
+      "location": "Mordred/aurelia-sails-socket-client"
+    },
+    {
       "name": "token-auth",
       "endpoint": "github",
       "location": "paulvanbladel/aureliauth"
