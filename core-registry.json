@@ -36,11 +36,6 @@
       "location": "aurelia/history-browser"
     },
     {
-      "name": "html-template-element",
-      "endpoint": "github",
-      "location": "aurelia/html-template-element"
-    },
-    {
       "name": "http-client",
       "endpoint": "github",
       "location": "aurelia/http-client"
