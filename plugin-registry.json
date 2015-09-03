@@ -26,6 +26,11 @@
       "location": "jdanyow/aurelia-computed"
     },
     {
+      "name": "configuration",
+      "endpoint": "github",
+      "location": "vheissu/aurelia-configuration"
+    },
+    {
       "name": "dialog",
       "endpoint": "github",
       "location": "aurelia/dialog"
