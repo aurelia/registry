@@ -41,6 +41,11 @@
       "location": "aurelia/fetch-client"
     },
     {
+      "name": "firebase",
+      "endpoint": "github",
+      "location": "pulsarblow/aurelia-firebase"
+    },
+    {
       "name": "flux",
       "endpoint": "github",
       "location": "tfrydrychewicz/aurelia-flux"
