@@ -51,6 +51,11 @@
       "location": "tfrydrychewicz/aurelia-flux"
     },
     {
+      "name": "google-analytics",
+      "endpoint": "github",
+      "location": "miguelzakharia/aurelia-google-analytics"
+    },
+    {
       "name": "gooy-dialog",
       "endpoint": "github",
       "location": "gooy/aurelia-dialog"
