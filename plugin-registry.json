@@ -78,7 +78,7 @@
     {
       "name": "materialize",
       "endpoint": "github",
-      "location": "manuel-guilbault/aurelia-materialize"
+      "location": "aurelia-ui-toolkits/aurelia-materialize-plugin"
     },
     {
       "name": "rethink-bindtable",
