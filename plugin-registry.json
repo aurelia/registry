@@ -104,6 +104,11 @@
       "name": "validation",
       "endpoint": "github",
       "location": "aurelia/validation"
-    }
+    },
+    {
+      "name": "yt-player",
+      "endpoint": "github",
+      "location": "genadis/aurelia-yt-player"
+    }    
   ]
 }
