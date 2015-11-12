@@ -109,6 +109,11 @@
       "name": "yt-player",
       "endpoint": "github",
       "location": "genadis/aurelia-yt-player"
-    }    
+    },
+      {
+      "name": "aurelia-mdl",
+      "endpoint": "github",
+      "location": "genadis/aurelia-mdl"
+    }
   ]
 }
