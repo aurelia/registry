@@ -110,10 +110,15 @@
       "endpoint": "github",
       "location": "genadis/aurelia-yt-player"
     },
-      {
+    {
       "name": "aurelia-mdl",
       "endpoint": "github",
       "location": "genadis/aurelia-mdl"
+    },
+    {
+      "name": "aurelia-kendoui-plugin",
+      "endpoint": "github",
+      "location": "aurelia-ui-toolkits/aurelia-kendoui-plugin"
     }
   ]
 }
