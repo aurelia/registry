@@ -46,6 +46,11 @@
       "location": "pulsarblow/aurelia-firebase"
     },
     {
+      "name": "grid",
+      "endpoint": "github",
+      "location": "corneliutusnea/aurelia-grid"
+    },
+    {
       "name": "flux",
       "endpoint": "github",
       "location": "tfrydrychewicz/aurelia-flux"
