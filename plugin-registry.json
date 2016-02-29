@@ -81,9 +81,9 @@
       "location": "benib/aurelia-leaflet"
     },
     {
-      "name": "materialize",
+      "name": "aurelia-materialize-bridge",
       "endpoint": "github",
-      "location": "aurelia-ui-toolkits/aurelia-materialize-plugin"
+      "location": "aurelia-ui-toolkits/aurelia-materialize-bridge"
     },
     {
       "name": "notification",
