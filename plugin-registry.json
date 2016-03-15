@@ -11,6 +11,11 @@
       "location": "pwkad/aurelia-bs-modal"
     },
     {
+      "name": "aurelia-dragula",
+      "endpoint": "github",
+      "location": "michaelmalonenz/aurelia-dragula"
+    },
+    {
     	"name": "auth",
       "endpoint": "github",
       "location": "paulvanbladel/aurelia-auth"
