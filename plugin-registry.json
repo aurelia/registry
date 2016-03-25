@@ -16,7 +16,7 @@
       "location": "michaelmalonenz/aurelia-dragula"
     },
     {
-    	"name": "auth",
+      "name": "auth",
       "endpoint": "github",
       "location": "paulvanbladel/aurelia-auth"
     },
@@ -40,7 +40,7 @@
       "endpoint": "github",
       "location": "aurelia/dialog"
     },
-	{
+    {
       "name": "environment",
       "endpoint": "github",
       "location": "MarcScheib/aurelia-environment"
@@ -56,14 +56,14 @@
       "location": "pulsarblow/aurelia-firebase"
     },
     {
-      "name": "grid",
-      "endpoint": "github",
-      "location": "corneliutusnea/aurelia-grid"
-    },
-    {
       "name": "flux",
       "endpoint": "github",
       "location": "tfrydrychewicz/aurelia-flux"
+    },
+    {
+      "name": "grid",
+      "endpoint": "github",
+      "location": "corneliutusnea/aurelia-grid"
     },
     {
       "name": "google-analytics",
