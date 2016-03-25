@@ -40,6 +40,11 @@
       "endpoint": "github",
       "location": "aurelia/dialog"
     },
+	{
+      "name": "environment",
+      "endpoint": "github",
+      "location": "MarcScheib/aurelia-environment"
+    },
     {
       "name": "fetch",
       "endpoint": "github",
