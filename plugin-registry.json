@@ -96,9 +96,9 @@
       "location": "aurelia-ui-toolkits/aurelia-materialize-bridge"
     },
     {
-      "name": "notification",
+      "name": "notify",
       "endpoint": "github",
-      "location": "MarcScheib/aurelia-notification"
+      "location": "MarcScheib/aurelia-notify"
     },
     {
       "name": "rethink-bindtable",
