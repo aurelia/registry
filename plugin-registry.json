@@ -29,7 +29,7 @@
     	"name": "bootstrap-datepicker",
     	"endpoint": "github",
     	"location": "Itprosolutions/aurelia-bootstrap-datepicker"
-    }
+    },
     {
       "name": "computed",
       "endpoint": "github",
