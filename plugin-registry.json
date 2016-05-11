@@ -80,7 +80,7 @@
       "endpoint": "github",
       "location": "zewa666/aurelia-i18next"
     },
-	{
+    {
       "name": "knockout",
       "endpoint": "github",
       "location": "code-chris/aurelia-knockout"
