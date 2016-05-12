@@ -86,6 +86,11 @@
       "location": "zewa666/aurelia-i18next"
     },
     {
+      "name": "knockout",
+      "endpoint": "github",
+      "location": "code-chris/aurelia-knockout"
+    },
+    {
       "name": "leaflet",
       "endpoint": "github",
       "location": "ceoaliongroo/aurelia-leaflet"
