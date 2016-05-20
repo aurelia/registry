@@ -6,11 +6,6 @@
       "location": "aurelia/animator-css"
     },
     {
-      "name": "aurelia-bs-modal",
-      "endpoint": "github",
-      "location": "pwkad/aurelia-bs-modal"
-    },
-    {
       "name": "aurelia-dragula",
       "endpoint": "github",
       "location": "michaelmalonenz/aurelia-dragula"
@@ -26,9 +21,9 @@
       "location": "jdanyow/aurelia-breeze"
     },
     {
-    	"name": "bootstrap-datepicker",
-    	"endpoint": "github",
-    	"location": "Itprosolutions/aurelia-bootstrap-datepicker"
+      "name": "bootstrap-datepicker",
+      "endpoint": "github",
+      "location": "Itprosolutions/aurelia-bootstrap-datepicker"
     },
     {
       "name": "computed",
@@ -129,11 +124,6 @@
       "name": "syntax-highlighter",
       "endpoint": "github",
       "location": "MarcScheib/aurelia-syntax-highlighter"
-    },
-    {
-      "name": "token-auth",
-      "endpoint": "github",
-      "location": "paulvanbladel/aureliauth"
     },
     {
       "name": "ui-virtualization",
