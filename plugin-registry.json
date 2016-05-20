@@ -6,6 +6,11 @@
       "location": "aurelia/animator-css"
     },
     {
+      "name": "api",
+      "endpoint": "npm",
+      "location": "aurelia-api"
+    },
+    {
       "name": "aurelia-dragula",
       "endpoint": "github",
       "location": "michaelmalonenz/aurelia-dragula"
@@ -14,6 +19,11 @@
       "name": "auth",
       "endpoint": "github",
       "location": "paulvanbladel/aurelia-auth"
+    },
+    {
+      "name": "authentication",
+      "endpoint": "npm",
+      "location": "aurelia-authentication"
     },
     {
       "name": "breeze",
@@ -101,9 +111,19 @@
       "location": "aurelia-ui-toolkits/aurelia-materialize-bridge"
     },
     {
+      "name": "notification",
+      "endpoint": "npm",
+      "location": "aurelia-notification"
+    },
+    {
       "name": "notify",
       "endpoint": "github",
       "location": "MarcScheib/aurelia-notify"
+    },
+    {
+      "name": "orm",
+      "endpoint": "npm",
+      "location": "aurelia-orm"
     },
     {
       "name": "rethink-bindtable",
