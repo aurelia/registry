@@ -126,6 +126,11 @@
       "location": "Itprosolutions/aurelia-switch"
     },
     {
+      "name": "syntax-highlighter",
+      "endpoint": "github",
+      "location": "MarcScheib/aurelia-syntax-highlighter"
+    },
+    {
       "name": "token-auth",
       "endpoint": "github",
       "location": "paulvanbladel/aureliauth"
