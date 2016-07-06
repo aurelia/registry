@@ -16,6 +16,11 @@
       "location": "michaelmalonenz/aurelia-dragula"
     },
     {
+      "name": "aurelia-clean-bindings",
+      "endpoint": "github",
+      "location": "aurelia-clean-bindings"
+    },
+    {
       "name": "auth",
       "endpoint": "github",
       "location": "paulvanbladel/aurelia-auth"
