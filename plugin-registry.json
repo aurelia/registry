@@ -21,6 +21,11 @@
       "location": "aurelia-clean-bindings"
     },
     {
+      "name": "aurelia-table",
+      "endpoint": "github",
+      "location": "tochoromero/aurelia-table"
+    },
+    {
       "name": "auth",
       "endpoint": "github",
       "location": "paulvanbladel/aurelia-auth"
