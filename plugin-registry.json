@@ -179,6 +179,11 @@
       "name": "aurelia-kendoui-plugin",
       "endpoint": "github",
       "location": "aurelia-ui-toolkits/aurelia-kendoui-plugin"
+    },
+    {
+      "name": "aurelia-redux",
+      "endpoint": "github",
+      "location": "steelsojka/aurelia-redux-plugin"
     }
   ]
 }
