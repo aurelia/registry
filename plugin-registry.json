@@ -21,6 +21,11 @@
       "location": "aurelia-clean-bindings"
     },
     {
+      "name": "aurelia-mdl-plugin",
+      "endpoint": "npm",
+      "location": "aurelia-mdl-plugin"
+    },
+    {
       "name": "aurelia-table",
       "endpoint": "github",
       "location": "tochoromero/aurelia-table"
