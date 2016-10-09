@@ -191,9 +191,9 @@
       "location": "steelsojka/aurelia-redux-plugin"
     },
     {
-      "name": "star-rate-plugin",
+      "name": "aurelia-star-rate",
       "endpoint": "github",
-      "location": "shahabganji/star-rate-plugin"
+      "location": "shahabganji/aurelia-star-rate"
     }
   ]
 }
