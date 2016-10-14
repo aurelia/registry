@@ -26,6 +26,11 @@
       "location": "aurelia-mdl-plugin"
     },
     {
+      "name": "aurelia-star-rate",
+      "endpoint": "github",
+      "location": "shahabganji/aurelia-star-rate"
+    },
+    {
       "name": "aurelia-table",
       "endpoint": "github",
       "location": "tochoromero/aurelia-table"
