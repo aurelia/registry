@@ -16,6 +16,11 @@
       "location": "michaelmalonenz/aurelia-dragula"
     },
     {
+      "name": "aurelia-bootstrap",
+      "endpoint": "github",
+      "location": "tochoromero/aurelia-bootstrap"
+    },
+    {
       "name": "aurelia-clean-bindings",
       "endpoint": "npm",
       "location": "aurelia-clean-bindings"
