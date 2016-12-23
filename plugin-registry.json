@@ -26,6 +26,16 @@
       "location": "aurelia-clean-bindings"
     },
     {
+      "name": "aurelia-mdl",
+      "endpoint": "github",
+      "location": "genadis/aurelia-mdl"
+    },
+    {
+      "name": "aurelia-mdl-components",
+      "endpoint": "github",
+      "location": "genadis/aurelia-mdl-components"
+    },
+    {
       "name": "aurelia-mdl-plugin",
       "endpoint": "npm",
       "location": "aurelia-mdl-plugin"
@@ -184,11 +194,6 @@
       "name": "yt-player",
       "endpoint": "github",
       "location": "genadis/aurelia-yt-player"
-    },
-    {
-      "name": "aurelia-mdl",
-      "endpoint": "github",
-      "location": "genadis/aurelia-mdl"
     },
     {
       "name": "aurelia-kendoui-plugin",
