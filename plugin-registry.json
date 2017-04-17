@@ -186,6 +186,11 @@
       "location": "aurelia/ui-virtualization"
     },
     {
+      "name": "aurelia-virtual-scroll",
+      "endpoint": "npm",
+      "location": "aurelia-virtual-scroll"
+    },
+    {
       "name": "validation",
       "endpoint": "github",
       "location": "aurelia/validation"
