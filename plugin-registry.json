@@ -51,6 +51,11 @@
       "location": "tochoromero/aurelia-table"
     },
     {
+      "name": "aurelia-virtual-scroll",
+      "endpoint": "npm",
+      "location": "aurelia-virtual-scroll"
+    },    
+    {
       "name": "auth",
       "endpoint": "github",
       "location": "paulvanbladel/aurelia-auth"
@@ -186,11 +191,6 @@
       "location": "aurelia/ui-virtualization"
     },
     {
-      "name": "aurelia-virtual-scroll",
-      "endpoint": "npm",
-      "location": "aurelia-virtual-scroll"
-    },
-    {
       "name": "validation",
       "endpoint": "github",
       "location": "aurelia/validation"
@@ -212,3 +212,4 @@
     }
   ]
 }
+
