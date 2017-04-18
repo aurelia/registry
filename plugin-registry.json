@@ -51,6 +51,11 @@
       "location": "tochoromero/aurelia-table"
     },
     {
+      "name": "aurelia-virtual-scroll",
+      "endpoint": "npm",
+      "location": "aurelia-virtual-scroll"
+    },    
+    {
       "name": "auth",
       "endpoint": "github",
       "location": "paulvanbladel/aurelia-auth"
@@ -207,3 +212,4 @@
     }
   ]
 }
+
