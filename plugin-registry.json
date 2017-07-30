@@ -26,6 +26,11 @@
       "location": "aurelia-clean-bindings"
     },
     {
+      "name": "aurelia-ion-rangeslider",
+      "endpoint": "npm",
+      "location": "aurelia-ion-rangeslider"
+    },
+    {
       "name": "aurelia-mdl",
       "endpoint": "github",
       "location": "genadis/aurelia-mdl"
